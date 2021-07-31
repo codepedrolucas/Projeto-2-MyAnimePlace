@@ -47,8 +47,6 @@ header .container{
     transition: all 1s;   
 }
 
-/*? header .container.{background-image: linear-gradient(rgb(32, 32, 32), rgb(20, 20, 20));transition: all 1s;}*/
-
 header .menu .logo{
     margin-left: 2rem;
     margin-right: 3rem;
@@ -109,7 +107,7 @@ header .user .perfil{
 
 /* ANIME PRINCIPAL*/
 main .img-start{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0, 0, 0, 0.50)), url('/img/capa-durarara!.jpg') no-repeat top / cover;
+    background:linear-gradient(rgba(0,0,0,0),rgba(0, 0, 0, 0.50)), url('/img/destaque.jpg') no-repeat top / cover;
     position: absolute;
     height: 100vh;
     width: 100%;

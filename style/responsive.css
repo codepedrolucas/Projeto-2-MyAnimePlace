@@ -1,17 +1,38 @@
-@media screen and (max-width:700px) {
-    header .container{
-        display: flex;
-        flex-direction: column;
+@media screen and (max-width:800px) {
+    header .container .menu nav{
+        display: none;
+        visibility: hidden;
     }
-    .botao{
+    .buttons{
         margin-top: 5px;
         width: 190px;
         height: 50px;
     }
+    header .user{
+        width: 20%;
+    }
+    anime-principal .container .titulo{
+        font-size: 7.5rem;
+    }
+    anime-principal .container .subtitle{
+        font-size: 1.6rem;
+    }
+    anime-principal .container .discricao{
+        font-size: 1.2rem;
+    }
+
 }
+
 
 @media screen and (min-width:1000px) {
     .discricao{
         width: 60%;
-    }    
+    }
+    .container-age {
+        padding: 0 4rem 0 1rem;
+     }
+  
+    .container-muted {
+        right: calc(38.385px + 4rem + 2rem);
+     }    
 }
