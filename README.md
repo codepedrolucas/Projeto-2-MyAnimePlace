@@ -2,7 +2,7 @@
 
 # MY ANIME PLACE 
 
-<p align="center"><img src="logo.png"></p>
+<p align="center"><img src="./img/logo.png"></p>
 My Anime Place é um projeto na tentativa de clonar visualmente o site da Netflix,a partir de conceitos inicias do projeto da Digital Innovation One utilizando o framework Jquery para fazer o carrosel do site. É um prejeto apenas visual, sem nenhuma interatividade, composto majoritariamente por HTML/CSS.
 
 ## Conteúdos
@@ -32,7 +32,7 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
  2. Pode-se também passar entre os animes no carrosel do site.
 
 ### Screenshot
-![](print.png)
+![](./img/print.png)
 ### Links
 - Site hospedado: [My Anime Place](https://pedrolucazx.github.io/MyAnimePlace/)
 
