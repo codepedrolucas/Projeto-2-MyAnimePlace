@@ -14,8 +14,8 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
   - [Links](#links)
 - [Processo](#processo)
   - [Tecnologia utilizadas](#tecnologias-utilizadas)
-  - [O que eu aprendi](#oque-eu-aprendi)
-  - [Continuação do desenvolvimento](#continuacao-do-desenvolvimento)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Continuação do desenvolvimento](#continuação-do-desenvolvimento)
 - [Autor](#autor)
 
 ## Overview
@@ -45,10 +45,11 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
 [<img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white" />](https://github.com/pedrolucazx)
 [<img src="https://img.shields.io/static/v1?label=&message=Jquery&color=blue&style=for-the-badge&logo=Jquery&logoColor=white" />](https://github.com/pedrolucazx)
 
-# O que eu aprendi
+### O que eu aprendi
  - Utilização da biblioteca Jquery - Owl Carousel para colocar um carrosel
  - Posicionamento, usando flexbox e position.
  - Como fazer um bom README.
+ - Conceitos de responsividade.
 
 ### Continuação do desenvolvimento
  - Seleção de perfil de usúario ao acessar a página.
@@ -56,5 +57,5 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
  - Reecriar novamente usando ReactJS 
 
 ## Autor
-- Linkedin - [Pedro Lucas](https://github.com/pedrolucazx)
+- Linkedin - [Pedro Lucas](https://www.linkedin.com/in/pedrolucazx/)
 - GitHub - [pedrolucazx](https://github.com/pedrolucazx)
