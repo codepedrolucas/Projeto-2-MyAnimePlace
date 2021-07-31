@@ -15,7 +15,7 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
 - [Processo](#processo)
   - [Tecnologia utilizadas](#tecnologias-utilizadas)
   - [O que eu aprendi](#o-que-eu-aprendi)
-  - [Continuação do desenvolvimento](#continuacao-do-desenvolvimento)
+  - [Continuação do desenvolvimento](#continuação-do-desenvolvimento)
 - [Autor](#autor)
 
 ## Overview
