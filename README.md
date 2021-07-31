@@ -49,7 +49,6 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
  - Utilização da biblioteca Jquery - Owl Carousel para colocar um carrosel
  - Posicionamento, usando flexbox e position.
  - Como fazer um bom README.
- - 
 
 ### Continuação do desenvolvimento
  - Seleção de perfil de usúario ao acessar a página.
