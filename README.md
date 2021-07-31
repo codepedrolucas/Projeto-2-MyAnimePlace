@@ -56,5 +56,5 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
  - Reecriar novamente usando ReactJS 
 
 ## Autor
-- Linkedin - [Pedro Lucas](https://github.com/pedrolucazx)
+- Linkedin - [Pedro Lucas](https://www.linkedin.com/in/pedrolucazx/)
 - GitHub - [pedrolucazx](https://github.com/pedrolucazx)
