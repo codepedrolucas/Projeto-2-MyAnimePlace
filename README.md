@@ -45,7 +45,7 @@ My Anime Place é um projeto na tentativa de clonar visualmente o site da Netfli
 [<img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white" />](https://github.com/pedrolucazx)
 [<img src="https://img.shields.io/static/v1?label=&message=Jquery&color=blue&style=for-the-badge&logo=Jquery&logoColor=white" />](https://github.com/pedrolucazx)
 
-# O que eu aprendi
+### O que eu aprendi
  - Utilização da biblioteca Jquery - Owl Carousel para colocar um carrosel
  - Posicionamento, usando flexbox e position.
  - Como fazer um bom README.
